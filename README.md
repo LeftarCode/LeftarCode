@@ -30,6 +30,9 @@
     <li>
         <a href="https://sklep.securitum.pl/python-hacking">Sekurak Academy 2023 - Can you hack everything with Python?</a>
     </li>
+    <li>
+        <a href="https://sklep.securitum.pl/atak-cold-boot-na-zywo">Sekurak Academy 2024 - Cold Boot Attack Live. How to decrypt a laptop by freezing the memory?</a>
+    </li>
 </ul>
 
 
