@@ -46,13 +46,16 @@ Thanks for stopping by—explore, learn, and let's push the boundaries of what's
     </li>
 </ul>
 
-<h3 align="left">Conferences:</h3>
+<h3 align="left">Industry conferences:</h3>
 <ul>
     <li>
         <a href="https://sklep.securitum.pl/sekrety-nie-bezpieczenstwa-tpm">Sekurak Academy 2024 - Secrets of TPM (in)security</a>
     </li>
     <li>
-        <a href="https://sklep.securitum.pl/mega-sekurak-hacking-party-22-maja-2023">Mega Sekurak Hacking Party 2024 - HashSlayer - State-of-the-art of cracking hashes on FPGA</a>
+        <a href="https://bsides.org/w/page/156649698/BSidesWarsaw2024">BSides Warsaw 2024 - HashSlayer - State-of-the-art of cracking hashes on FPGA</a>
+    </li>
+    <li>
+        <a href="https://sekurak.pl/mega-sekurak-hacking-party-juz-20-05-2024-r-agenda-prelegenci-oraz-niespodzianka-dla-wszystkich-i-kolejna-dla-wytrwalych/">Mega Sekurak Hacking Party 2024 - HashSlayer - State-of-the-art of cracking hashes on FPGA</a>
     </li>
     <li>
         <a href="https://sklep.securitum.pl/atak-cold-boot-na-zywo">Sekurak Academy 2024 - Cold Boot Attack Live. How to decrypt a laptop by freezing the memory?</a>
