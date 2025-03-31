@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">Destroying what others have created. For a better tomorrow.</h3>
+Hello! I'm Mateusz—a passionate security researcher, hacker, and developer who loves breaking boundaries and challenging norms. My work spans dissecting application secrets, exposing TPM vulnerabilities, and exploring the realms of FPGA, microcontrollers, and Python exploits. I thrive on turning real-world penetration tests into actionable insights and robust security solutions.
 
-- 🌱 I’m currently learning **RISC-V ISA**
+Over the years, I've shared my findings through publications like How Secure Are Your Application Secrets? Lessons from Years of Real-World Penetration Tests, Memory Heist: The Secrets and Risks of Cold Boot Attacks, and Why you shouldn't (again) roll your own cryptography - real-life case in 2024. These works dive deep into topics from SPI sniffing and TPM traffic analysis to the challenges of behavioral biometrics and the silent threat of ReDoS.
 
-- 💬 Ask me about **Computer Engineering Security**
+I also love engaging with the community by presenting at major events—whether it's revealing TPM (in)security at Sekurak Academy 2024, showcasing FPGA hash cracking at the Mega Sekurak Hacking Party 2024, or live-demonstrating cold boot attacks. These conferences keep me on the cutting edge and fuel my drive to innovate.
 
-- 📫 How to reach me **leftarcode@gmail.com**
+One of my proud projects, IRSentry, is a symbolic execution engine designed to uncover security vulnerabilities, embodying my commitment to blending research with hands-on hacking.
+
+Thanks for stopping by—explore, learn, and let's push the boundaries of what's possible in security together!
 <h3 align="left">Publications:</h3>
 <ul>
     <li>
