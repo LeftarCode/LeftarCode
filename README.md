@@ -9,6 +9,27 @@
 <h3 align="left">Publications:</h3>
 <ul>
     <li>
+        <a href="https://www.securitum.com/how_secure_are_your_application_secrets.html">How Secure Are Your Application Secrets? Lessons from Years of Real-World Penetration Tests</a>
+    </li>
+    <li>
+        <a href="https://www.securitum.com/extracting_clevisbitlocker_secrets_from_tpm_traffic_.html">From SPI Sniffing to Keys: Extracting Clevis/BitLocker Secrets from TPM Traffic</a>
+    </li>
+    <li>
+        <a href="https://www.securitum.com/memory_heist_the_secrets_and_risks_of_cold_boot_attacks.html">Memory Heist: The Secrets and Risks of Cold Boot Attacks</a>
+    </li>
+    <li>
+        <a href="https://www.securitum.com/how-not-to-store-data-in-a-desktop-application.html">How NOT to store data in a desktop application?</a>
+    </li>
+    <li>
+        <a href="https://www.securitum.com/why_you_shouldnt_roll_your_own_cryptography_2.html">Why you shouldn't (again) roll your own cryptography - real-life case in 2024.</a>
+    </li>
+    <li>
+        <a href="https://www.securitum.com/exploring_daas_security-part-2.html">Exploring DaaS Security - part 2: Other available applications on the machine (3rd party)</a>
+    </li>
+    <li>
+        <a href="https://www.securitum.com/exploring_daas_security.html">Exploring DaaS Security: A Comprehensive Guide Based on Vulnerabilities Uncovered in Real Pentests - part 1</a>
+    </li>
+    <li>
         <a href="https://pagedout.institute/download/PagedOut_003_beta1.pdf#page=32">Idea behind Khazad-dum - a TPM2 secret manager!</a>
     </li>
     <li>
@@ -25,13 +46,19 @@
 <h3 align="left">Conferences:</h3>
 <ul>
     <li>
-        <a href="https://sklep.securitum.pl/mega-sekurak-hacking-party-22-maja-2023">Mega Sekurak Hacking Party 2023 - CRYptography by Iwona Polak and Mateusz Lewczak</a>
+        <a href="https://sklep.securitum.pl/sekrety-nie-bezpieczenstwa-tpm">Sekurak Academy 2024 - Secrets of TPM (in)security</a>
+    </li>
+    <li>
+        <a href="https://sklep.securitum.pl/mega-sekurak-hacking-party-22-maja-2023">Mega Sekurak Hacking Party 2024 - HashSlayer - State-of-the-art of cracking hashes on FPGA</a>
+    </li>
+    <li>
+        <a href="https://sklep.securitum.pl/atak-cold-boot-na-zywo">Sekurak Academy 2024 - Cold Boot Attack Live. How to decrypt a laptop by freezing the memory?</a>
     </li>
     <li>
         <a href="https://sklep.securitum.pl/python-hacking">Sekurak Academy 2023 - Can you hack everything with Python?</a>
     </li>
     <li>
-        <a href="https://sklep.securitum.pl/atak-cold-boot-na-zywo">Sekurak Academy 2024 - Cold Boot Attack Live. How to decrypt a laptop by freezing the memory?</a>
+        <a href="https://sklep.securitum.pl/mega-sekurak-hacking-party-22-maja-2023">Mega Sekurak Hacking Party 2023 - CRYptography by Iwona Polak and Mateusz Lewczak</a>
     </li>
 </ul>
 
